@@ -8,3 +8,6 @@ Strategy/INF_SIR/src/*.class
 Strategy/POP_SIR/src/*.class
 Strategy/RAN_SIR/src/*.class
 Strategy/SMC_RAN/src/*.class
+Output/ESP_Output/RAN/*.txt
+Output/ESP_Output/*.txt
+GEN_INPUT/src/*.txt
