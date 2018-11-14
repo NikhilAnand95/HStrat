@@ -1,0 +1,10 @@
+Input/ESP_Input/mapping/*.txt
+Input/ESP_Input/position/*.txt
+Input/ESP_Input/state/*.txt
+Input/ESP_Resources/resources/*.txt
+Input/ESP_Input/BA/*.txt
+GEN_INPUT/src/*.class
+Strategy/INF_SIR/src/*.class
+Strategy/POP_SIR/src/*.class
+Strategy/RAN_SIR/src/*.class
+Strategy/SMC_RAN/src/*.class
