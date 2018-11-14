@@ -1,0 +1,3 @@
+# Run the simulation with diffent strategies.
+
+## To change strategies, change variable STRATEGY in Simulate.sh
