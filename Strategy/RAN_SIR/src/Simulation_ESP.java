@@ -73,7 +73,7 @@ public class Simulation_ESP
 		delta          = _delta;
 		outputFolder   = _outputFolder;
 		outputFile     = _outputFolder +"RAN/" + (hcus)+"_hcus.txt";
-		outputFile1    =  _outputFolder + "SIR_"+(local_prob)+"_"+(inf_threshold)+"_"+(delta)+"_"+(sample_size)+"_ran.txt";
+		outputFile1    =  _outputFolder + "RAN/SIR_"+(local_prob)+"_"+(inf_threshold)+"_"+(delta)+"_"+(sample_size)+"_ran.txt";
 		stateFolder    = _stateFolder;
 		positionFolder = _positionFolder;
 		mappingFolder  = _mappingFolder;

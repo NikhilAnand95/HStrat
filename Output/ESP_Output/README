@@ -2,4 +2,5 @@ This folder contains out put of the simulation.
 
 RAN -subfolder contains output corresponding to RANDOM BASED HCU Movement Strategey
 INF -subfolder contains output corresponding to INFECTED BASED HCU Movement Strategey
-POP - subfolder contains output corresponding to POPULATION BASED HCU Movement Strategey
+POP -subfolder contains output corresponding to POPULATION BASED HCU Movement Strategey
+SMC -subfolder contains output corresponding to Query Processing.

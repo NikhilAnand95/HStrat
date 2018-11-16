@@ -71,7 +71,7 @@ public class Simulation_ESP
 		delta          = _delta;
 		outputFolder   = _outputFolder;
 		outputFile     = _outputFolder +"POP/" + (hcus)+"_hcus.txt";
-		outputFile1    =  _outputFolder + "SIR_"+(local_prob)+"_"+(inf_threshold)+"_"+(delta)+"_"+(sample_size)+"_pop.txt";
+		outputFile1    =  _outputFolder + "POP/SIR_"+(local_prob)+"_"+(inf_threshold)+"_"+(delta)+"_"+(sample_size)+"_pop.txt";
 		stateFolder    = _stateFolder;
 		positionFolder = _positionFolder;
 		mappingFolder  = _mappingFolder;

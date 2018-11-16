@@ -10,4 +10,5 @@ Strategy/RAN_SIR/src/*.class
 Strategy/SMC_RAN/src/*.class
 Output/ESP_Output/RAN/*.txt
 Output/ESP_Output/*.txt
+Output/ESP_Output/POP/*.txt
 GEN_INPUT/src/*.txt
